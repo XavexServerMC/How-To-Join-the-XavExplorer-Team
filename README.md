@@ -1,2 +1,8 @@
-# How To Join the XavExplorer Team
-### In order to join the XavExplorer team & join our Minecraft servers, you have to follow the following steps:
+<h1>How To Join the XavExplorer Team</h1>
+<p>In order to join the XavExplorer team & join our Minecraft servers, you have to follow the following steps:</p>
+<h2>Step 1: Download Minecraft Java</h2>
+<p>1. Download a Minecraft Launcher. It could be official or cracked.</p>
+<p>2. Complete the setup in the .exe file.</p>
+<p>3. Create an installation that points to Fabric 1.20.1.</p>
+<p>3. Download Java 21 by Oracle.  Complete the installation properly.</p>
+<h2>Step 2: Setup Tailscale.</h2>
