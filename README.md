@@ -8,5 +8,5 @@
 <h2>Step 2: Setup Tailscale.</h2>
 <p>How if you can't join the server?</p>
 <p>1. Try opening Tailscale before going back to Minecraft.</p>
-<p>2. Install all the mods required. The mods are accessible in their world GitHub site.</p>
+<p>2. Install all the mods required. The mods to all servers can be accessed here. For other mods specifc to that server, check in their server GitHub site.</p>
 <p>3. Wait 'till the server is launched. Ask XavExplorer, the admin operator of XavexServers, to launch the server.</p>
