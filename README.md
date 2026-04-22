@@ -4,5 +4,5 @@
 <p>1. Download a Minecraft Launcher. It could be official or cracked.</p>
 <p>2. Complete the setup in the .exe file.</p>
 <p>3. Create an installation that points to Fabric 1.20.1.</p>
-<p>3. Download Java 21 by Oracle.  Complete the installation properly.</p>
+<p>3. <a href="https://www.example.com">Download Java 21 by Oracle</a>.  Complete the installation properly.</p>
 <h2>Step 2: Setup Tailscale.</h2>
