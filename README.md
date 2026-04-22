@@ -1,1 +1,1 @@
-# How-To-Join-the-XavExplorer-Team
+# How To Join the XavExplorer Team
