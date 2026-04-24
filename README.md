@@ -1,5 +1,5 @@
 <h1>How To Join the XavExplorer Team</h1>
-<p>In order to join the XavExplorer team & join our Minecraft servers, you have to follow the following steps:</p>
+<p>In this page, we are going to teach you how to join a XavexServer. Easy you think, huh? Well, it's harder than you thought. In order to join our servers, do the following steps:</p>
 <h2>Step 1: Download Minecraft Java</h2>
 <p>1. Download a Minecraft Launcher. It could be official or cracked.</p>
 <p>2. Complete the setup in the .exe file.</p>
